@@ -1,2 +1,6 @@
-# MLAI-training-in-life-sciences
-suggestions on training and learning ML AI for life sciences
+# Suggestions on training and learning of machine intelligence for life sciences
+
+* Learn Python
+
+
+
